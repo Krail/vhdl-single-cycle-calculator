@@ -1,0 +1,7 @@
+{
+  "id": "vhdl-single-cycle-calc",
+  "keywords": ["VHDL", "GHDL", "GTKWave", "Processor Design"],
+  "progress": 100,
+  "software": true,
+  "hardware": true
+}
