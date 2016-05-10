@@ -1,6 +1,10 @@
 # Lab 2: VHDL 8-bit Calculator
-###  CPEG 324
+##  CPEG 324
 ###    Sean Krail
+
+The design of this single-cycle calculator roughly follows the simple, single-cycle MIPS processor shown in this image, including the naming of components:
+
+![Image of the simple, single-cycle MIPS processor](https://raw.githubusercontent.com/Krail/vhdl-single-cycle-calculator/master/.meta/project.png)
 
 
 ## Install GHDL 0.31 (may not be necessary, GHDL 0.29 should be fine... maybe)
